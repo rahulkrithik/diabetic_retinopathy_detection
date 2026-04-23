@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Model files (too large for GitHub - use Google Drive)
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Dataset (too large - download separately)
+/dataset/train/
+/dataset/test/
+/dataset/val/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+runs/
