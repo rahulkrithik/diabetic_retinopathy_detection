@@ -42,20 +42,9 @@ This project uses **EfficientNet-B4** to automatically classify retinal images i
 |--------|-------|
 | Training Accuracy | 85% |
 | Validation Accuracy | 83% |
-| Dataset | DDR Dataset |
+| Dataset | DDR Dataset or Aptos Dataset|
 | No. of Classes | 5 |
 
----
-
-## 🖥️ Screenshots
-
-### Web App Interface
-![App Screenshot](screenshots/app_demo.png)
-
-### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -131,22 +120,6 @@ opencv-python>=4.5.0
 - [ ] Deploy on cloud (Hugging Face Spaces / Streamlit Cloud)
 - [ ] Add patient report generation as PDF export
 - [ ] Mobile-friendly UI
-
----
-
-## 👨‍💻 Author
-
-**B Rahul Krithik**
-- 🎓 Final Year B.Tech ECE @ CUSAT, Kochi
-- 📧 rahulkrithik16@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/rahulkrithik)
-- 🐙 [GitHub](https://github.com/rahulkrithik)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
