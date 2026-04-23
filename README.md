@@ -73,8 +73,7 @@ cd diabetic-retinopathy-detection
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the Streamlit app
-streamlit run app.py
+# 4. Run the Streamlit app(deploy_web.ipynb)
 ```
 
 ---
